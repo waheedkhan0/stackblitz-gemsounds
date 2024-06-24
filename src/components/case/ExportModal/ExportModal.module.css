@@ -1,0 +1,134 @@
+.title {
+  color: rgba(18, 26, 33, 0.9);
+  font-family: var(--font-family-gt);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1%;
+  line-height: 32px;
+  padding: 1rem 1rem 0 1rem;
+}
+
+.body {
+  display: flex;
+  width: 100%;
+  flex: 1 1 auto;
+  gap: 0.75rem;
+  flex-direction: column;
+}
+
+.fps {
+  margin: 0 1rem 0 1rem;
+}
+
+.mimeType {
+  width: calc(100% - 32px);
+  margin: 20px 16px 0;
+}
+
+.pages {
+  width: calc(100% - 28px - 16px);
+}
+
+.quality {
+  width: calc(100% - 28px - 16px);
+  margin: 12px 16px 12px 28px;
+}
+
+.resolution {
+  width: calc(100% - 28px - 16px);
+  margin: 0 1.5rem 0 1rem;
+}
+
+.subtitle {
+  display: flex;
+  align-self: flex-start;
+  padding: 0 1rem;
+}
+
+.smallDivider {
+  width: calc(100% - 32px);
+  margin-top: 16px;
+}
+
+.footer {
+  margin-top: 16px;
+}
+
+.progress {
+  width: 100%;
+  height: 1px;
+  appearance: none;
+}
+
+.progress::-webkit-progress-bar {
+  background-color: #eee;
+}
+
+.progress::-webkit-progress-value {
+  background-color: var(--primary-color);
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0.5rem;
+  gap: 10px;
+}
+
+/* Add these new styles to your existing CSS */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(18, 26, 33, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modalContent {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+.closeButton {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: rgba(18, 26, 33, 0.6);
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.closeButton:hover {
+  color: rgba(18, 26, 33, 0.9);
+}
+
+.hide{
+  display: none;
+}
+/* You may need to adjust some existing styles */
+.body {
+  padding: 0 1rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 1rem 1rem;
+}

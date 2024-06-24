@@ -1,0 +1,1257 @@
+{
+  "version": "1.0.0",
+  "id": "artist_based_source",
+  "assets": [
+    {
+        "id": "down-in-the-hemisphere-angad-uday",
+        "locale": "en",
+        "label": "Down in the Hemisphere - Angad Uday",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Non-Loopable/Down%20in%20the%20Hemisphere%20-%20Angad%20Uday.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Angad%20Uday%20-%20Mumbai.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 37.392
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "intrigue-angad-uday",
+        "locale": "en",
+        "label": "Intrigue - Angad Uday",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Non-Loopable/Intrigue%20-%20Angad%20Uday.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Angad%20Uday%20-%20Mumbai.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 39.048
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "jade-and-spices-angad-uday",
+        "locale": "en",
+        "label": "Jade and Spices - Angad Uday",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Non-Loopable/Jade%20and%20Spices%20-%20Angad%20Uday.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Angad%20Uday%20-%20Mumbai.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 33.672
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "serial-server-shutdown-angad-uday",
+        "locale": "en",
+        "label": "Serial Server Shutdown - Angad Uday",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Non-Loopable/Serial%20Server%20Shutdown%20-%20Angad%20Uday.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Angad%20Uday%20-%20Mumbai.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 39.336
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "where-did-it-go-angad-uday",
+        "locale": "en",
+        "label": "Where Did It Go - Angad Uday",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Non-Loopable/Where%20Did%20It%20Go%20-%20Angad%20Uday.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Angad%20Uday/Angad%20Uday%20-%20Mumbai.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 43.368
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "arctic-lights-(loopable)-austin-perkins",
+        "locale": "en",
+        "label": "Arctic Lights (Loopable) - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Loopable/Arctic%20Lights%20(Loopable)%20-%20Austin%20Perkins.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 153.6
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "chill-at-noon-(loopable)-austin-perkins",
+        "locale": "en",
+        "label": "Chill at Noon (Loopable) - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Loopable/Chill%20at%20Noon%20(Loopable)%20-%20Austin%20Perkins.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 535.214
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "one-more-jam-(loopable)-austin-perkins",
+        "locale": "en",
+        "label": "One More Jam (Loopable) - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Loopable/One%20More%20Jam%20(Loopable)%20-%20Austin%20Perkins.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1017.451
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "thinking-up-(loopable)-austin-perkins",
+        "locale": "en",
+        "label": "Thinking Up (Loopable) - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Loopable/Thinking%20Up%20(Loopable)%20-%20Austin%20Perkins.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 818.55
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "chill-beat-austin-perkins",
+        "locale": "en",
+        "label": "Chill Beat - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Non-Loopable/Chill%20Beat%20-%20Austin%20Perkins.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 85.8
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "down-the-road-a-bit-austin-perkins",
+        "locale": "en",
+        "label": "Down The Road a Bit - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Non-Loopable/Down%20The%20Road%20a%20Bit%20-%20Austin%20Perkins.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 441.236
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "late-austin-perkins",
+        "locale": "en",
+        "label": "Late - Austin Perkins",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Non-Loopable/Late%20-%20Austin%20Perkins.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Austin%20Perkins/Austin%20Perkins%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1213.572
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "birth-into-earth-bryant-daly",
+        "locale": "en",
+        "label": "Birth into Earth - Bryant Daly",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Bryant%20Daly/Birth%20into%20Earth%20-%20Bryant%20Daly.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Bryant%20Daly/Bryant%20Daly%20-%20California.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 171.494
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "waiting-bryant-daly",
+        "locale": "en",
+        "label": "Waiting - Bryant Daly",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Bryant%20Daly/Waiting%20-%20Bryant%20Daly.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Bryant%20Daly/Bryant%20Daly%20-%20California.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 141.061
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "lovely-times-christopher-ramos",
+        "locale": "en",
+        "label": "Lovely Times - Christopher Ramos",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Christopher%20Ramos/Lovely%20Times%20-%20Christopher%20Ramos.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Christopher%20Ramos/Christopher%20Ramos%20-%20Philippines.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 299.553
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "serenity-dj-mead",
+        "locale": "en",
+        "label": "Serenity - DJ Mead",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/DJ%20Mead/Non-Loopable/Serenity%20-%20DJ%20Mead.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 64.3
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "led-issues-drod",
+        "locale": "en",
+        "label": "LED Issues - DROD",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/DROD/Non-Loopable/LED%20Issues%20-%20DROD.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/DROD/Drod%20-%20Buenos%20Aires.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1287.259
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "time-drod",
+        "locale": "en",
+        "label": "Time - DROD",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/DROD/Non-Loopable/Time%20-%20DROD.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/DROD/Drod%20-%20Buenos%20Aires.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 973.603
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "flashy-dagored",
+        "locale": "en",
+        "label": "Flashy - Dagored",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Dagored/Flashy%20-%20Dagored.mp3",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 122.018
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "gem-in-the-dawn-diego-cortes-kenny",
+        "locale": "en",
+        "label": "Gem in the Dawn - Diego Cortes Kenny",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Diego%20Cortes%20Kenny/Gem%20in%20the%20Dawn%20-%20Diego%20Cortes%20Kenny.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Diego%20Cortes%20Kenny/Diego%20Cortes%20Kenny%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 82.125
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "project-8-emre",
+        "locale": "en",
+        "label": "Project-8 - Emre",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Emre%20Er/Project-8%20-%20Emre.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Emre%20Er/Emre%20-%20Tu%CC%88rkiye.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 306.887
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "planning-and-zoning-commission-(loopable)-evgeny-ryabovol",
+        "locale": "en",
+        "label": "Planning and Zoning Commission (Loopable) - Evgeny Ryabovol",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Evgeny%20Ryabovol/Loopable/Planning%20and%20Zoning%20Commission%20(Loopable)%20-%20Evgeny%20Ryabovol.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Evgeny%20Ryabovol/Evgeny%20Ryabovol%20-%20Kyiv.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 64.078
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "yard-sale!-(loopable)-evgeny-ryabovol",
+        "locale": "en",
+        "label": "Yard Sale! (Loopable) - Evgeny Ryabovol",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Evgeny%20Ryabovol/Loopable/Yard%20Sale!%20(Loopable)%20-%20Evgeny%20Ryabovol.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Evgeny%20Ryabovol/Evgeny%20Ryabovol%20-%20Kyiv.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 113.006
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "chase-through-the-woods-harman",
+        "locale": "en",
+        "label": "Chase Through the Woods - Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/Chase%20Through%20the%20Woods%20-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 223.568
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "looking-at-the-river-harman",
+        "locale": "en",
+        "label": "Looking at the River - Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/Looking%20at%20the%20River%20-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 220.236
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "ludhiana-lullaby-harman",
+        "locale": "en",
+        "label": "Ludhiana Lullaby - Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/Ludhiana%20Lullaby%20-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 129.466
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "lush-living-harman",
+        "locale": "en",
+        "label": "Lush Living - Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/Lush%20Living%20-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 285.808
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "night-at-sangrur-harman",
+        "locale": "en",
+        "label": "Night at Sangrur - Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/Night%20at%20Sangrur%20-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 133.811
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "the-long-hallway-harman",
+        "locale": "en",
+        "label": "The Long Hallway- Harman",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Loopable/The%20Long%20Hallway-%20Harman.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Harman/Harman%20-%20Punjab.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 112.69
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "arid-janugur",
+        "locale": "en",
+        "label": "Arid - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Arid%20-%20JANugur.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 82.279
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "coffee-break-janugur",
+        "locale": "en",
+        "label": "Coffee Break - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Coffee%20Break%20-%20JANugur.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 214.439
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "got-some-change-janugur",
+        "locale": "en",
+        "label": "Got Some Change  - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Got%20Some%20Change_%20-%20JANugur.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 98.728
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "sleep-scenes-janugur",
+        "locale": "en",
+        "label": "Sleep Scenes - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Sleep%20Scenes%20-%20JANugur.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 93.863
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "struggles-janugur",
+        "locale": "en",
+        "label": "Struggles - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Struggles%20-%20JANugur.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 151.54
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "tripster-janugur",
+        "locale": "en",
+        "label": "Tripster - JANugur",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/Tripster%20-%20JANugur.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/JANugur/JANugur%20-%20Istanbul.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 66.787
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "epic-riff-james-glover",
+        "locale": "en",
+        "label": "Epic Riff - James Glover",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/James%20Glover/Non-Loopable/Epic%20Riff%20-%20James%20Glover.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/James%20Glover/James%20Glover%20-%20Springfield.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 37.956
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "can-t-beat-us-javier-perez",
+        "locale": "en",
+        "label": "Can t Beat Us - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Can_t%20Beat%20Us%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 95.992
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "crescendo-of-events-javier-perez",
+        "locale": "en",
+        "label": "Crescendo of Events - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Crescendo%20of%20Events%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 216.792
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "drop-it-javier-perez",
+        "locale": "en",
+        "label": "DROP IT - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/DROP%20IT%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 103.101
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "deep-breathe-and-start-over-javier-perez",
+        "locale": "en",
+        "label": "Deep Breathe and Start Over - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Deep%20Breathe%20and%20Start%20Over%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 551.028
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "feeling-alone-javier-perez",
+        "locale": "en",
+        "label": "Feeling Alone - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Feeling%20Alone%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1623.687
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "is-love-javier-perez",
+        "locale": "en",
+        "label": "Is Love - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Is%20Love%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 796.344
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "mission-deployed-javier-perez",
+        "locale": "en",
+        "label": "Mission Deployed - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Mission%20Deployed%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 125.926
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "new-beginnings-javier-perez",
+        "locale": "en",
+        "label": "New Beginnings - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/New%20Beginnings%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 171.905
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "nostalgia-javier-perez",
+        "locale": "en",
+        "label": "Nostalgia - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Nostalgia%20-%20Javier%20Pe%CC%81rez.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 75.363
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "on-point-javier-perez",
+        "locale": "en",
+        "label": "On Point - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/On%20Point%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 113.963
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "spaceshippin-javier-perez",
+        "locale": "en",
+        "label": "Spaceshippin  - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Spaceshippin_%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 43.065
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "suspense-underwater-javier-perez",
+        "locale": "en",
+        "label": "Suspense Underwater - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Suspense%20Underwater%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1191.321
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "suspicious-synth-javier-perez",
+        "locale": "en",
+        "label": "Suspicious Synth - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Suspicious%20Synth%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1110.483
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "the-creek-javier-perez",
+        "locale": "en",
+        "label": "The Creek - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/The%20Creek%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 449.785
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "what-does-it-say-javier-perez",
+        "locale": "en",
+        "label": "What Does It Say  - Javier Pérez",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/What%20Does%20It%20Say_%20-%20Javier%20Pe%CC%81rez.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Javier%20Pe%CC%81rez/Javier%20Perez%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 675.203
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "a-cold-night-(loopable)-jeremy-car",
+        "locale": "en",
+        "label": "A Cold Night (Loopable) - Jeremy Car",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Loopable/A%20Cold%20Night%20(Loopable)%20-%20Jeremy%20Car.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Jeremy%20Car%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 120.965
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "delicate-(loopable)-jeremy-car",
+        "locale": "en",
+        "label": "Delicate (Loopable) - Jeremy Car",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Loopable/Delicate%20(Loopable)%20-%20Jeremy%20Car.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Jeremy%20Car%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 73.09
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "the-groove-(loopable)-jeremy-car",
+        "locale": "en",
+        "label": "The Groove (Loopable) - Jeremy Car",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Loopable/The%20Groove%20(Loopable)%20-%20Jeremy%20Car.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Jeremy%20Car/Jeremy%20Car%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 369.194
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "contemplating-my-maker-leo-carricaburu",
+        "locale": "en",
+        "label": "Contemplating My Maker - Leo Carricaburu",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Non-Loopable/Contemplating%20My%20Maker%20-%20Leo%20Carricaburu.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Leo%20Carricaburu%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1076.269
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "growing-up-leo-carricaburu",
+        "locale": "en",
+        "label": "Growing Up - Leo Carricaburu",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Non-Loopable/Growing%20Up%20-%20Leo%20Carricaburu.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Leo%20Carricaburu%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 381.834
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "in-flight-over-the-andes-leo-carricaburu",
+        "locale": "en",
+        "label": "In Flight Over the Andes - Leo Carricaburu",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Non-Loopable/In%20Flight%20Over%20the%20Andes%20-%20Leo%20Carricaburu.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Leo%20Carricaburu%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 577.446
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "not-going-to-let-them-leo-carricaburu",
+        "locale": "en",
+        "label": "Not Going to Let Them - Leo Carricaburu",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Non-Loopable/Not%20Going%20to%20Let%20Them%20-%20Leo%20Carricaburu.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Leo%20Carricaburu/Leo%20Carricaburu%20-%20Argentina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 456.555
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "get-along-make-room-music",
+        "locale": "en",
+        "label": "Get Along - Make Room Music",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Non-Loopable/Get%20Along%20-%20Make%20Room%20Music.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Make%20Room%20Music%20-%20South%20Carolina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 101.424
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "protection-make-room-music",
+        "locale": "en",
+        "label": "Protection - Make Room Music",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Non-Loopable/Protection%20-%20Make%20Room%20Music.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Make%20Room%20Music%20-%20South%20Carolina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 97.152
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "unfazed-make-room-music",
+        "locale": "en",
+        "label": "Unfazed - Make Room Music",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Non-Loopable/Unfazed%20-%20Make%20Room%20Music.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Make%20Room%20Music/Make%20Room%20Music%20-%20South%20Carolina.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 150.384
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "backstreets-of-budapest-sam-el-din",
+        "locale": "en",
+        "label": "Backstreets of Budapest - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Backstreets%20of%20Budapest%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 477.885
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "six-sam-el-din",
+        "locale": "en",
+        "label": "Six - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Six%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1933.826
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "stunned-and-lost-sam-el-din",
+        "locale": "en",
+        "label": "Stunned & Lost - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Stunned%20%26%20Lost%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 258.525
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "upper-orient-sam-el-din",
+        "locale": "en",
+        "label": "Upper Orient - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Upper%20Orient%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1570.204
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "vanity-of-vanities-(all-is-vanity)-sam-el-din",
+        "locale": "en",
+        "label": "Vanity of Vanities (All is Vanity) - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Vanity%20of%20Vanities%20(All%20is%20Vanity)%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 707.542
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "voyage-into-trouble-sam-el-din",
+        "locale": "en",
+        "label": "Voyage into Trouble - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/Voyage%20into%20Trouble%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1344.071
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "nanananation-sam-el-din",
+        "locale": "en",
+        "label": "nanananation - Sam El Din",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sam%20El%20Din/nanananation%20-%20Sam%20El%20Din.wav",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 2047.661
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "relaxing-in-autumn-skupdm",
+        "locale": "en",
+        "label": "Relaxing in Autumn - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Loopable/Relaxing%20in%20Autumn%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 153.6
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "down-by-that-stream-skupdm",
+        "locale": "en",
+        "label": "Down By That Stream - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/Down%20By%20That%20Stream%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 68.415
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "go-home-skupdm",
+        "locale": "en",
+        "label": "Go Home - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/Go%20Home%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 112.013
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "good-gravy-skupdm",
+        "locale": "en",
+        "label": "Good Gravy - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/Good%20Gravy%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 157.518
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "just-forg-skupdm",
+        "locale": "en",
+        "label": "Just Forg - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/Just%20Forg%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 181.577
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "shining-on-faces-skupdm",
+        "locale": "en",
+        "label": "Shining on Faces - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/Shining%20on%20Faces%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 70.008
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "the-giant-shadow-skupdm",
+        "locale": "en",
+        "label": "The Giant Shadow - SkupDM",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/Non-Loopable/The%20Giant%20Shadow%20-%20SkupDM.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/SkupDM/SkupDM%20-%20Odessa.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 84.663
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "clouded-thoughts-sync-kibe",
+        "locale": "en",
+        "label": "Clouded Thoughts - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Clouded%20Thoughts%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 158.563
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "fugitive-sync-kibe",
+        "locale": "en",
+        "label": "Fugitive - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Fugitive%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 133.329
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "monroe-sync-kibe",
+        "locale": "en",
+        "label": "Monroe - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Monroe%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 77.714
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "moving-sync-kibe",
+        "locale": "en",
+        "label": "Moving - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Moving%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 93.283
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "relapse-sync-kibe",
+        "locale": "en",
+        "label": "Relapse - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Relapse%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 97.358
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "sixes-sync-kibe",
+        "locale": "en",
+        "label": "Sixes - Sync Kibe",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Non-Loopable/Sixes%20-%20Sync%20Kibe.mp3",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/Sync%20Kibe/Sync%20Kibe%20-%20Kenya.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 255.216
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "dialed-in-noyhii",
+        "locale": "en",
+        "label": "Dialed In - noyhii",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/Dialed%20In%20-%20noyhii.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/noyhii%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 396.621
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "intergalactic-drive-time-noyhii",
+        "locale": "en",
+        "label": "Intergalactic Drive Time - noyhii",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/Intergalactic%20Drive%20Time%20-%20noyhii.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/noyhii%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 390.916
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    },
+    {
+        "id": "long-night-and-no-sleep-noyhii",
+        "locale": "en",
+        "label": "Long Night and No Sleep - noyhii",
+        "meta": {
+            "uri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/Long%20Night%20and%20No%20Sleep%20-%20noyhii.wav",
+            "thumbUri": "http://localhost:3000/cases/video-ui/audio/musician_contributed/noyhii/noyhii%20-%20Brampton.png",
+            "blockType": "//ly.img.ubq/audio",
+            "mimeType": "audio/mpeg",
+            "duration": 1207.477
+        },
+        "context": {
+            "sourceId": "artist_based_source"
+        }
+    }
+]
+}

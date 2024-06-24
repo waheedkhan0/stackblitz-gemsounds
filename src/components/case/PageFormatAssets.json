@@ -1,0 +1,281 @@
+{
+  "version": "1.0.0",
+  "id": "pageFormats",
+  "assets": [
+    {
+      "id": "social-feed",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["facebook_reel"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookreel.png"
+      }
+    },
+    {
+      "id": "facebook_story1",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["facebook_story"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookstory.png"
+      }
+    },
+    {
+      "id": "facebook_feed1",
+      "label": { "en": "1:1 (Square - 1080 x 1080 pixels)" },
+      "groups" : ["facebook_feed"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookfeedsquare.png"
+      }
+    },
+    {
+      "id": "facebook_feed2",
+      "label": { "en": "2:3 (Vertical - 1500 x 2250 pixels)" },
+      "groups" : ["facebook_feed"],
+      "meta": {
+        "formatWidth": 1500,
+        "formatHeight": 2250,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookfeed23.png"
+      }
+    },
+    {
+      "id": "facebook_feed4",
+      "label": { "en": "4:5 (Vertical - 1080 x 1350 pixels)" },
+      "groups" : ["facebook_feed"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1350,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookfeed4-5.png"
+      }
+    },
+    {
+      "id": "facebook_feed3",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["facebook_feed"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookfeed916.png"
+      }
+    },
+   
+    {
+      "id": "facebook_feed5",
+      "label": { "en": "16:9 (Landscape - 1920 x 1080 pixels)" },
+      "groups" : ["facebook_feed"],
+      "meta": {
+        "formatWidth": 1920,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/facebookfeedlandscape.png"
+      }
+    },
+    {
+      "id": "instagram_reel",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["instagram_reel"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/instagramreel.png"
+      }
+    },
+    {
+      "id": "instagram_story",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["instagram_story"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/instagramstory.png"
+      }
+    },
+    {
+      "id": "instagram_feed1",
+      "label": { "en": "1:1 (Square - 1080 x 1080 pixels)" },
+      "groups" : ["instagram_feed"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/instagramfeedsquare.png"
+      }
+    },
+    {
+      "id": "instagram_feed2",
+      "label": { "en": "4:5 (Vertical - 1080 x 1350 pixels)" },
+      "groups" : ["instagram_feed"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1350,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/instagramfeed45.png"
+      }
+    },
+    {
+      "id": "instagram_feed3",
+      "label": { "en": "16:9 (Landscape - 1920 x 1080 pixels)" },
+      "groups" : ["instagram_feed"],
+      "meta": {
+        "formatWidth": 1920,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/instagramfeed169.png"
+      }
+    },
+    {
+      "id": "igtv1",
+      "label": { "en": "16:9 (Landscape - 1920 x 1080 pixels)" },
+      "groups" : ["igtv"],
+      "meta": {
+        "formatWidth": 1920,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/igtvlandscape.png"
+      }
+    },
+    {
+      "id": "igtv2",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["igtv"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/igtv916.png"
+      }
+    },
+    {
+      "id": "tiktok1",
+      "label": { "en": "9:16 (Full Portrait - 1080 x 1920 pixels)" },
+      "groups" : ["tiktok"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/tiktok.png"
+      }
+    },
+    {
+      "id": "youtube1",
+      "label": { "en": "16:9 (Landscape - 1920 x 1080 pixels)" },
+      "groups" : ["youtube"],
+      "meta": {
+        "formatWidth": 1080,
+        "formatHeight": 1920,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/youtube.png"
+      }
+    },
+    {
+      "id": "hd",
+      "label": { "en": "HD 720p 16:9" },
+      "groups" : ["general"],
+      "meta": {
+        "formatWidth": 1280,
+        "formatHeight": 720,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/hd720p169.png"
+      }
+    },
+    {
+      "id": "fullhd",
+      "label": { "en": "Full HD 1080p 16:9" },
+      "groups" : ["general"],
+      "meta": {
+        "default": true,
+        "formatWidth": 1920,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/fullhd.png"
+      }
+    },
+    {
+      "id": "qhd",
+      "label": { "en": "Quad HD 1440p 16:9" },
+      "groups" : ["general"],
+      "meta": {
+        "formatWidth": 2560,
+        "formatHeight": 1440,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/quadhd.png"
+      }
+    },
+    {
+      "id": "format2k",
+      "label": { "en": "2K Video 1080p 1:1.77" },
+      "groups" : ["general"],
+      "meta": {
+        "formatWidth": 2048,
+        "formatHeight": 1080,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/2k.png"
+      }
+    },
+    {
+      "id": "format4k",
+      "label": { "en": "Ultra HD 2160p 16:9" },
+      "groups" : ["general"],
+      "meta": {
+        "formatWidth": 3840,
+        "formatHeight": 2160,
+        "height": 120,
+        "width": 80,
+        "unit": "Pixel",
+        "thumbUri": "{{base_url}}/ultrahd.png"
+      }
+    }
+  ]
+}

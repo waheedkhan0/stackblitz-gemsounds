@@ -1,0 +1,174 @@
+/* Popup container */
+.share-popup-content {
+    background-color: white;
+    width: 90%;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Modal */
+  .modal {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Close button */
+  .modal .close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+  
+  .modal .close:hover {
+    color: #333;
+  }
+  
+  /* Header */
+  .modal .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  /* Content */
+  .modal .content {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
+  /* Actions */
+  .modal .actions {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  /* Buttons */
+  .modal .button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+  }
+  
+  .modal .button:hover {
+    transform: translateY(-2px);
+  }
+  
+  .modal .button:active {
+    transform: translateY(0);
+  }
+  
+  /* Platform-specific button styles */
+  .modal .button.instagram {
+    background-color: #E1306C;
+    color: white;
+  }
+  
+  .modal .button.facebook {
+    background-color: #4267B2;
+    color: white;
+  }
+  
+  .modal .button.youtube {
+    background-color: #FF0000;
+    color: white;
+  }
+  
+  .modal .button.tiktok {
+    background-color: #000000;
+    color: white;
+  }
+
+  .modal {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+  
+  .close:hover {
+    color: #333;
+  }
+  
+  .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .content {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+  }
+  
+  .button:hover {
+    transform: translateY(-2px);
+  }
+  
+  .button:active {
+    transform: translateY(0);
+  }
+  
+  .instagram {
+    background-color: #E1306C;
+    color: white;
+  }
+  
+  .facebook {
+    background-color: #4267B2;
+    color: white;
+  }
+  
+  .youtube {
+    background-color: #FF0000;
+    color: white;
+  }
+  
+  .tiktok {
+    background-color: #000000;
+    color: white;
+  }
